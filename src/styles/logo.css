@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Faster One';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/fasterone/v12/H4ciBXCHmdfClFb-vWhf-LyYhw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+.nav-bar{
+    align-self: flex-start;
+    display:flex;
+    justify-content: center;
+    width:100%;
+    
+    font-family: 'Faster One', cursive;
+    font-size: 4rem;
+    background-image: url(https://img.freepik.com/free-photo/crumpled-white-paper-texture-cage-blue-lines-school-notebook_116441-15905.jpg?size=626&ext=jpg);
+}
+.logo{
+    font-family: 'Faster One', cursive;
+    font-size: 4rem;
+    opacity:0.7;
+    color:#32C1C3;
+}
+.logo:hover{
+    opacity:1;
+}
